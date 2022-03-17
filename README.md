@@ -8,3 +8,5 @@ then captioning these audio files with a neat sentence using NLP.
 You can see the results and discussion of this project in our report. [Audio_Calptioning_report.pdf]
 
 Also, there is a series of development blog posts. You may find them here: https://medium.com/@alperenozcelik/list/audio-calptioning-3b048def30ef
+
+And lastly we have an short animated film for this project: https://youtu.be/lbH-NOvVZGs
