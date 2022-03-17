@@ -1,3 +1,5 @@
+#Audio Calptioning
+
 Our project is called 'Audio Calptioning' for the AIN311 course at Hacettepe University. 
 The subject of the project is Audio Captioning and we are using Clotho dataset[1].
 Our main goal is to classify the labeled audio files by transforming them into Log-Mel Spectrogram graphs and inserting them into the CNN model, 
