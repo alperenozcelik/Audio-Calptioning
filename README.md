@@ -5,6 +5,6 @@ then captioning this audio files with a neat sentences using NLP.
 
 [1] https://zenodo.org/record/3490684#.Yay7ldBByUk
 
-You can see the results and discussion of this project in the Audio_Calptioning_report.pdf.
+You can see the results and discussion of this project in the https://github.com/alperenozcelik/Audio-Calptioning/blob/main/Audio_Calptioning_report.pdf
 
 Also, there is a series of development blog posts. You may find them here: Abdullah Palaz – Medium.
