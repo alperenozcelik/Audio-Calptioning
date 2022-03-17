@@ -1,4 +1,4 @@
-#Audio Calptioning
+# Audio Calptioning
 
 Our project is called 'Audio Calptioning' for the AIN311 course at Hacettepe University. 
 The subject of the project is Audio Captioning and we are using Clotho dataset[1].
